@@ -4,7 +4,7 @@
 
 # ABSTRACT
 The perceived audio quality is one of the key factors that may determine a text-to-speech system’s success in the market. Therefore, it is important to conduct audio
-quality evaluation before releasing such system into the market. Evaluating the synthesized audio quality is usually done either subjectively or objectively with their own advantages and disadvantages. Subjective methods usually require a large amount of time and resources, while objective methods lack human influence factors, which are crucial for deriving the subjective perception of quality. These human influence factors are manifested inside an individual’s brain in forms such as
+quality evaluation before releasing such system into the market. Evaluating the synthesized audio quality is usually done either subjectively or objectively with their own advantages and disadvantages. Subjective methods usually require a large amount of time and resources, while objective methods lack human influence factors, which are crucial for deriving the subjective perception of quality. These human influence factors are manifested inside an individual’s brain in forms such as
 electroencephalograph (EEG). Thus, in this study, we performed audio quality prediction using EEG data. Since the data used in this study is small, we also compared the prediction result of the augmented and the non-augmented data. Our result shows that certain method yield significantly better prediction with augmented training data.
 
 ### Code Explanation
@@ -49,4 +49,4 @@ The SVM model performed significantly better compared to the other methods could
 
 ![image](https://user-images.githubusercontent.com/45966986/215103851-d2cfb6c0-a538-4c79-a174-58942d324836.png)
 
-Meanwhile, the difference in prediction score of neural network between implementing Peak Picking Technique and EEG Spectrogram Extraction could be due to the higher dimension of the spectrogram compared to the data generated from implementing Peak Picking Technique. Thus, it can be concluded that the difference 
+Meanwhile, the difference in prediction score of neural network between Peak Picking Technique and EEG Spectrogram Extraction could be due to the higher dimension of the spectrogram compared to the data generated from implementing Peak Picking Technique.
