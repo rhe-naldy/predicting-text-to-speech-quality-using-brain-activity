@@ -91,7 +91,7 @@ def generate_model(index, methods):
     mean = (rmse[0] + rmse[1] + rmse[2] + rmse[3]) / 4
     return mean
 
-for i in range(1, 2):
+for i in range(1, 4):
     if i == 1:
         print("SVR")
     elif i == 2:
