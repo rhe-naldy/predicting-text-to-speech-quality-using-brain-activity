@@ -1,6 +1,6 @@
 # machine-learning-predicting-text-to-speech-quality-using-brain-activity
 
-[Predicting Text-To-Speech Quality using Brain Activity](https://ieeexplore.ieee.org/document/9975857) is a group research paper made for Machine Learning course in the fourth semester, which was published by [The 2022 International Conference on Internet of Things and Intelligence System (IoTaIS 2022)](http://iotais.org/) and posted to the IEEE Xplore digital library. The paper can be viewed by clicking [here](https://ieeexplore.ieee.org/document/9975857). Below is the abstract to the paper.
+[Predicting Text-To-Speech Quality using Brain Activity](https://ieeexplore.ieee.org/document/9975857) is a group research paper made for Machine Learning course in the fourth semester, which was published in [The 2022 International Conference on Internet of Things and Intelligence System (IoTaIS 2022)](http://iotais.org/) and posted to the IEEE Xplore digital library. The paper can be viewed by clicking [here](https://ieeexplore.ieee.org/document/9975857). Below is the abstract to the paper.
 
 # ABSTRACT
 The perceived audio quality is one of the key factors that may determine a text-to-speech system’s success in the market. Therefore, it is important to conduct audio
